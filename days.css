@@ -1,0 +1,149 @@
+  body{
+    padding: 0;
+    margin: 0;
+    background: url("https://wallpaperscraft.com/image/background_faded_old_46943_1920x1080.jpg")center no-repeat; background-attachment:fixed;
+  }
+  #monday{
+  border: 1px solid black;
+  background-color: white;
+  text-align: center;
+  height: 60px;
+  width: 300px;
+  margin-bottom: 3px;
+  font-family: Sawasdee;
+  font-weight: bold;
+  font-size: 30px;
+  }
+  #tuesday{
+  border: 1px solid black;
+  background-color: white;
+  text-align: center;
+  height: 60px;
+  width: 300px;
+  margin-bottom: 3px;
+  font-family: Sawasdee;
+  font-weight: bold;
+  font-size: 30px;
+  }
+  #wednesday{
+    border: 1px solid black;
+    background-color: white;
+  text-align: center;
+  height: 60px;
+  width: 300px;
+  margin-bottom: 3px;
+  font-family: Sawasdee;
+  font-weight: bold;
+  font-size: 30px;
+  }
+  #thursday{
+  border: 1px solid black;
+  background-color: white;
+  text-align: center;
+  height: 60px;
+  width: 300px;
+  margin-bottom: 3px;
+  font-family: Sawasdee;
+  font-weight: bold;
+  font-size: 30px;
+  }
+  #friday{
+  border: 1px solid black;
+  background-color: white;
+  text-align: center;
+  height: 60px;
+  width: 300px;
+  margin-bottom: 3px;
+  font-family: Sawasdee;
+  font-weight: bold;
+  font-size: 30px;
+  }
+  #saturday{
+    border: 1px solid black;
+    background-color: white;
+    text-align: center;
+    height: 60px;
+    width: 300px;
+    margin-bottom: 3px;
+    font-family: Sawasdee;
+    font-weight: bold;
+    font-size: 30px;
+  }
+  #sunday{
+  border: 1px solid black;
+  background-color: white;
+  text-align: center;
+  height: 60px;
+  width: 300px;
+  margin-bottom: 3px;
+  font-family: Sawasdee;
+  font-weight: bold;
+  font-size: 30px;
+  }
+
+  #compare{
+    border: 1px solid #e06000;
+    background-color: #ee9600;
+    text-align: center;
+    height: 40px;
+    width: 200px;
+    margin-bottom: 3px;
+    font-family: Sawasdee;
+    font-weight: bold;
+    font-size: 20px;
+  }
+#clear{
+  border: 1px solid #e06000;
+  background-color: #ee9600;
+  text-align: center;
+  height: 40px;
+  width: 200px;
+  margin-bottom: 3px;
+  font-family: Sawasdee;
+  font-weight: bold;
+  font-size: 20px;
+}
+#selectFirst{
+  font-family: Sawasdee;
+  font-weight: bold;
+  font-size: 20px;
+}
+#selectSecond{
+  font-family: Sawasdee;
+  font-weight: bold;
+  font-size: 20px;
+}
+.active{
+  border: 1px solid black;
+  background-color: green;
+  text-align: center;
+  height: 60px;
+  width: 300px;
+  margin-bottom: 3px;
+  font-family: Sawasdee;
+  font-weight: bold;
+  font-size: 30px;
+}
+.date1{
+  border: 1px solid black;
+  background-color: #FF6347 ;
+  text-align: center;
+  height: 60px;
+  width: 300px;
+  margin-bottom: 3px;
+  font-family: Sawasdee;
+  font-weight: bold;
+  font-size: 30px;
+
+}
+.date2{
+  border: 1px solid black;
+  background-color: #FF8C00;
+  text-align: center;
+  height: 60px;
+  width: 300px;
+  margin-bottom: 3px;
+  font-family: Sawasdee;
+  font-weight: bold;
+  font-size: 30px;
+}
